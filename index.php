@@ -57,7 +57,7 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead">BIENVENID@ A NUESTRA WEBSITE</h1>
+				<h1 class="lead">BIENVENIDO A NUESTRA WEBSITE</h1>
 				<p class="tagline">PROGRESSUS: Esta plantilla la pondras encontrar en <a href="http://www.google.com.pe">Google</a></p>
 				<p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
 			</div>
@@ -68,7 +68,7 @@
 	<!-- Intro -->
 	<div class="container text-center">
 		<br> <br>
-		<h2 class="thin">The best place to tell people why they are here</h2>
+		<h2 class="thin">El mejor lugar para las personas</h2>
 		<p class="text-muted">
 			The difference between involvement and commitment is like an eggs-and-ham breakfast:<br> 
 			the chicken was involved; the pig was committed.
